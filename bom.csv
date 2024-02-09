@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1, R2, R3, R4, R5, R6",6,"0.47 kΩ Resistor"
+"R7, R8",2,"470 Ω Resistor"
+"Digit2",1,"Cathode 7 Segment Display"
+"R10, R11",2,"10 kΩ Resistor"
+"StimerBbutton, SstartTimerBbutton",2," Pushbutton"
+"PIEZO1",1," Piezo"
