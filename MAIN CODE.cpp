@@ -1,6 +1,4 @@
-/*
-This code is a copyright of Ish Kapoor. And required credit should be given.
-*/
+
 
 /* Declaring the variables and pins for 7 Segment display */
 int f = 13;
